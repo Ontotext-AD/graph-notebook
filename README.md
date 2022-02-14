@@ -270,7 +270,7 @@ python3 -m graph_notebook.start_notebook --notebooks-dir .
   "port": 7200,
   "ssl": false,
   "sparql": {
-    "path": "repositories/repo_id"
+    "path": "repositories/<repo_id>"
   }
 }
 ```
